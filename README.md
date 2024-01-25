@@ -1,4 +1,4 @@
-# Shelfie-Backend
+# NadSoft-Backend-Task
 
 ## Prerequisites
 
@@ -16,13 +16,13 @@ To start using and contributing to the project, follow these steps for setting u
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/KarimAhmedAhmed/Shelfie-Backend.git
+   git clone https://github.com/KarimAhmedAhmed/NadSoft-Backend-Task.git
    ```
 
 2. Install project dependencies:
 
    ```bash
-   cd Shelfie-Backend
+   cd NadSoft-Backend-Task
    npm install
    ```
 
@@ -51,10 +51,10 @@ Provide information on how to deploy your application to a production environmen
 List the technologies and frameworks used in the project. You can also specify which features are still in progress.
 
 - Express.js
+- Prisma
 - PostgreSQL
 - JavaScript
 - Jest (for testing)
-- Docker (In-Progress)
 
 Certainly! Here's how you can add a "Testing" section to your project's documentation:
 
