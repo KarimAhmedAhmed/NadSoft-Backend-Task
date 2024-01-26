@@ -75,7 +75,7 @@ npm run test:cov
 it is postgress using prisma orm so you have to add your database url in the env file as the example in file example-env.txt
 
 
-change the database url by yours in (prisma -> scheme.prisma) file
+if it is not working for some reason you have to change the database url by yours in (prisma -> scheme.prisma) file
 like this:
 ```bash
 datasource db {
