@@ -69,5 +69,15 @@ We also provide the ability to generate test coverage reports to gain insights i
 npm run test:cov
 ```
 
+#### Database
+
+```bash
+it is postgress using prisma orm so you have to change the database url by yours in (prisma -> scheme.prisma) file
+like this:  datasource db {
+  provider = "postgresql"
+  url ="your-database-url"
+}
+``` 
+
 
 
